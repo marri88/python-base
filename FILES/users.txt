@@ -1,0 +1,3 @@
+Login: fjkl
+Password: fghjk
+Put': /home/aimira/python/python3/week2files/p.png
